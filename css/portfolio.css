@@ -1,0 +1,182 @@
+body{
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'meriweather' serif;
+}
+a {
+    text-decoration:none;
+    font-size: 2rem;
+    margin: 10px;   
+}
+a:hover{
+    color: antiquewhite;
+}
+footer{
+    background-color:#66BFBF;
+}
+h1, h2{
+    color: #66bfbf;
+}
+h1{
+    margin-top: 0;
+    padding-top: 175px;
+    
+}
+h2{
+    padding: 10px;
+    margin-left: auto; 
+}
+h3{
+    margin-bottom: 2px;
+    margin-left: 50%; 
+   
+}
+hr{
+    border:dotted  #bfcaca 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+   
+}
+header{
+    background-color: #eaf6f6;
+}
+main{
+    background-color:hsl(180, 100%, 100%);
+    margin: 30px 0;
+}
+p{
+    line-height: 2;
+}
+span{
+    text-decoration: underline;
+
+}
+
+
+
+
+/******************************************************     CLASS SELECTORS *******************************************************************************************************/
+.big-mountain{
+    height: 350px;
+  
+}
+.bottom-cloud{
+    position: absolute;
+    left: 130px;
+    top: 250px;
+    height: 180px;
+    width: 180px;
+}
+.btn{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 10%;
+    height: 50px;
+    background-color: aqua;
+    border: 1px solid rgb(160, 189, 126);
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background-color: rgb(224, 238, 238);
+}
+.contact-message{
+    width: 20% ;
+    margin: 40px auto 60px;
+}
+.container{
+    width: 100%;
+    margin-left: 25%;
+}
+.copyright{
+    color: #eaf6f6;
+}
+.designanddev{
+    width: 50%;
+    
+    
+}
+
+
+.intro{
+    width: 30%;
+    margin: auto;
+   
+}
+.intro-heading{
+    width: 30%;
+    margin:auto;
+    text-align: center;
+}
+.marauders{
+    width: 50%;
+   
+}
+.maraudersimg {
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 40px;
+    
+
+}
+
+.potterhead{
+    width: 50%;
+    margin: auto;
+
+}
+.programmer-img{
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 40px;
+
+}
+.resume_pic{
+    height: 150px;
+    width: 150px;
+}
+.skill-row{
+    text-align: left;
+    width: 50%;
+    margin: auto;
+}
+.sub-paragrapgh1{
+    padding: 20px 0;
+    margin-top: 2px
+    
+   
+}
+.sub-paragrapgh2{ 
+    padding: 20px 0;
+    margin-top: 2px
+}
+.sub-paragrapgh3{
+    margin: auto;
+    padding: 20px 0;
+    margin-top: 2px
+
+}
+.top-cloud{
+    position: absolute;
+    right: 540px;
+}
+.writer{
+    width: 50%;
+  
+}
+
+.writerimg{
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-right: 40px;
+
+}
+
